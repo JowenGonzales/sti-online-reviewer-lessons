@@ -5,7 +5,7 @@
 ```
 Download and Extract the 'CoderDocs-BS5-v2.0.zip'
 
-Copy the files inside the 'final contents' folder, inside the extracted 'CoderDocs-BS5-v2.0.zip. 
+Open the 'final contents' folder and copy its files inside the extracted 'CoderDocs-BS5-v2.0.zip. 
 ```
 ## Note:
 ```
