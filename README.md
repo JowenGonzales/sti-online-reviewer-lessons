@@ -9,6 +9,8 @@ Open the 'final contents' folder and copy its files inside the extracted 'CoderD
 ```
 ## Note:
 ```
+Name the files based on the title of the lesson followed by '.html'
+
 Ensure that all final contents are uploaded to the 'final contents folder.'
 
 No need to upload the zip file again just upload the .html file
